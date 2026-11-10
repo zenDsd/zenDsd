@@ -20,7 +20,7 @@ Software / Developer Tools:  GitHub,  VS Code
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 
-| **[Project Name](https://setthasit-hotel-a01d9.web.app/)** | 1. การพัฒนาระบบเว็บไซต์จองห้องพักออนไลน์
+| **(https://setthasit-hotel-a01d9.web.app/)** | 1. การพัฒนาระบบเว็บไซต์จองห้องพักออนไลน์
 พัฒนาเว็บแอปพลิเคชันแบบครบวงจรสำหรับบริการที่พัก โดยมีฟีเจอร์การตรวจสอบสถานะห้องว่างแบบเรียลไทม์ การจัดการการจองแบบชั่วคราวและรายวัน และมีอินเทอร์เฟซที่ใช้งานง่ายสำหรับลูกค้า
 เทคโนโลยีที่ใช้: React, JavaScript, HTML, CSS, Tailwind CSS
 Supabase (ระบบฐานข้อมูลและหลังบ้าน), Firebase (ระบบโฮสติ้งเว็บไซต์)
